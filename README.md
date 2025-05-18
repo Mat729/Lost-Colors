@@ -12,4 +12,14 @@ My main contributions were: </br>
  - The game workflow, working on the UI from the game intro to the game end; in this case, because of the limited time we had to develop the whole project, I made the HUD classes instantiate different Widget pages based on the point of the game you were in and certain events such as game end;
 
 ## 🕹️ Gameplay and images
-[![LostColors](https://ytcards.demolab.com/?id=Rg-1IgAz0nE&title=Lost+Colors&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://youtu.be/Rg-1IgAz0nE)
+[![LostColors](https://ytcards.demolab.com/?id=Rg-1IgAz0nE&title=Lost+Colors+Gameplay&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5)](https://youtu.be/Rg-1IgAz0nE) 
+<img src="LostColorsImgAndVid/LostColorsMenu.png" alt="Lost Colors Menu" height=250 width=400> </br>
+<img src="LostColorsImgAndVid/LostColorsCredits.png" alt="Lost Colors Menu" height=250 width=400>
+<img src="LostColorsImgAndVid/LostColorsGraphicOptions.png" alt="Lost Colors Menu" height=250 width=400>
+<img src="LostColorsImgAndVid/LostColorsOptions.png" alt="Lost Colors Menu" height=250 width=400>
+<img src="LostColorsImgAndVid/LostColorsRocketBW.png" alt="Lost Colors Menu" height=250 width=400>
+<img src="LostColorsImgAndVid/LostColorsRocketReference.png" alt="Lost Colors Menu" height=250 width=400>
+<img src="LostColorsImgAndVid/LostColorsRocketColored.png" alt="Lost Colors Menu" height=250 width=400>
+<video width="350" height="200" controls>
+  <source src="LostColorsImgAndVid/LostColorsCakeRebuild.mp4" type="video/mp4">
+</video>
