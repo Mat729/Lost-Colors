@@ -12,7 +12,7 @@ My main contributions were: </br>
  - The game workflow, working on the UI from the game intro to the game end; in this case, because of the limited time we had to develop the whole project, I made the HUD classes instantiate different Widget pages based on the point of the game you were in and certain events such as game end;
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="👾" width="30" height="30" /> Do you want to play the game?
-The game is finished and it'll be soon available on [DBGA's itch.io](https://digital-bros-game-academy.itch.io/), but for now you can download the build [here!](https://drive.google.com/drive/folders/11dp9crbfn5Y01sGVPAKVwRNi7GvAiCZ3?usp=sharing)
+The game is finished and available on [DBGA's itch.io](https://digital-bros-game-academy.itch.io/lost-colors)!
 
 ## 🕹️ Gameplay and images
 [![LostColors](https://ytcards.demolab.com/?id=Rg-1IgAz0nE&title=Lost+Colors+Gameplay&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=400&border_radius=5)](https://youtu.be/Rg-1IgAz0nE) 
